@@ -291,7 +291,7 @@ export default function App() {
         <Section id="about" title="About">
           <div className="card p-6 text-base leading-relaxed">
             I build reliable, scalable web apps with a strong product sense.
-            I’ve led a payments project end‑to‑end, migrated teams to
+            I’ve led a multiple projects end‑to‑end, migrated teams to
             TypeScript, and delivered accessible, responsive interfaces. I enjoy
             shipping features fast without compromising quality.
           </div>
