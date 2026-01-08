@@ -34,3 +34,7 @@ coverage/
 
 # Misc
 *.local
+
+# Netlify
+.netlify/
+.netlify
