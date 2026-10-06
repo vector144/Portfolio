@@ -14,7 +14,7 @@ export const DATA = {
     "Full‑stack developer with 3+ years experience building production web apps. Led payments integrations, introduced TypeScript, built data visualizations, and delivered clean, accessible UI/UX. Strong with Svelte, React, Node/Express, Laravel, SQL, and MongoDB.",
   stats: [
     { value: "3+", label: "Years of Experience" },
-    { value: "7+", label: "Completed Projects" },
+    { value: "10+", label: "Completed Projects" },
     { value: "4K+", label: "Hours Worked" },
   ],
   skills: {
@@ -41,6 +41,30 @@ export const DATA = {
     tools: ["Git & GitHub", "D3.js", "Chart.js", "Vite", "Webpack"],
   },
   projects: [
+    {
+      name: "JDH Civic",
+      period: "2025",
+      stack: ["React", "Leaflet Maps", "Geolocation", "Tailwind CSS"],
+      about:
+        "Civic issue reporting platform featuring ward-wise interactive maps of Jodhpur, location-based issue pinning with photo uploads, and ward representative & warden details.",
+      link: "https://jodhpur-civic.netlify.app/",
+    },
+    {
+      name: "3D Visual",
+      period: "2024",
+      stack: ["React", "Tailwind CSS", "Modern UI/UX"],
+      about:
+        "Agency website showcasing innovative architectural solutions for dynamic, sustainable, and future-ready spaces.",
+      link: "https://3dvisual.netlify.app/",
+    },
+    {
+      name: "Glowing Sun Kids",
+      period: "2024",
+      stack: ["React", "Tailwind CSS", "Responsive Design"],
+      about:
+        "Playgroup school landing page featuring vibrant aesthetics, interactive curriculum highlights, and parent enquiry workflows.",
+      link: "https://glowingsunkids.netlify.app/",
+    },
     {
       name: "Bungalow 12",
       period: "2024",
