@@ -44,9 +44,9 @@ export const DATA = {
     {
       name: "Rare Loom Store",
       period: "2026",
-      stack: ["E-commerce", "Payments", "Responsive Design"],
+      stack: ["Next.js", "Node.js", "Express", "PostgreSQL", "Easebuzz", "Tailwind CSS", "shadcn/ui"],
       about:
-        "Live online store with product catalog, cart and checkout, built end to end and running in production.",
+        "Full‑stack e‑commerce store for handcrafted products, with product catalog, cart, checkout, and Easebuzz payment integration. Built end to end and live in production.",
       link: "https://rareloomstore.com/",
     },
     {
