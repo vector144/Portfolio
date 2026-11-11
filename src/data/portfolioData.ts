@@ -42,6 +42,14 @@ export const DATA = {
   },
   projects: [
     {
+      name: "Rare Loom Store",
+      period: "2026",
+      stack: ["E-commerce", "Payments", "Responsive Design"],
+      about:
+        "Live online store with product catalog, cart and checkout, built end to end and running in production.",
+      link: "https://rareloomstore.com/",
+    },
+    {
       name: "JDH Civic",
       period: "2025",
       stack: ["React", "Leaflet Maps", "Geolocation", "Tailwind CSS"],
